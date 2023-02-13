@@ -1,1 +1,2 @@
-0x02-shell_ioredirections and filters read me file
+#!/bin/bash
+echo "0x02-shell_redirect"
